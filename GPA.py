@@ -1,4 +1,4 @@
-print("Hi, You can use this to calculate you GPA")
+print("Hi, You can use this to calculate your GPA:")
 
 points = {"S":10, "A":9, "B":8, "C":7, "D":6, "E":5, "F":0}
 
